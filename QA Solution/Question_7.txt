@@ -1,0 +1,5 @@
+I have been analyzing, cleaning and manipulating data in Python with tools like Pandas, Numpy, Scikit-learn, 
+Tensorflow, Keras etc. And for visualizing the data I have used Pandas, Seaborn, Cufflinks and Plotly. For store and search/query 
+I prefer PostGreSQL, if data is big we can use Google BigQuery or Hadoop. These are the techonolgy I have used and 
+those would be my technology stacks for BI or Data Anlytics.    
+  

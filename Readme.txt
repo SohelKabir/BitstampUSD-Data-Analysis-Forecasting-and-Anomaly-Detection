@@ -1,0 +1,2 @@
+Answer to the queston 2 and 7 inside QA Solution folder. Question 4,5,6 answers are implemented in IPYNB file with 
+respective names. There are some forecasting models with data analysis with their algorithm names.  

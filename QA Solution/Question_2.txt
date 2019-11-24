@@ -1,0 +1,8 @@
+CREATE TABLE Public.BitStampUSD("Timestamp" integer, "Open" double precision, "High" double precision,
+									"Low" double precision, "Close" double precision, "Volume_(BTC)" double precision,
+								 "Volume_(Currency)" double precision, "Weighted_Price" double precision)
+
+
+COPY Public.BitStampUSD FROM 'C:\Users\Sohel\task\bitstampUSD_1-min_data_2012-01-01_to_2019-08-12.csv' DELIMITER ',' CSV HEADER;
+
+SELECT * FROM BitStampUSD LIMIT 5;
